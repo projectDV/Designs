@@ -3,6 +3,8 @@ This branch contains various MUX_DMUX models.
 You would find, followoing MUX_DMUX models:-
   1. MUX 2x1.
   2. MUX 4x1.
+  3. DMUX 1x2.
+  4. DMUX 1x4/
 
 Basic Definition: MUX
   -Mux stands for multiplexers.
