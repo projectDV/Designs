@@ -1,4 +1,4 @@
-module dmux_12(Din, E, S0);
+module dmux_1x2(Din, E, S0);
 
 input Din,E,S0;
 output Y0,Y1;
